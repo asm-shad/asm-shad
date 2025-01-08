@@ -1,6 +1,6 @@
-# Hi, I'm [ASM Shad] 👋
+# Hi, I'm ASM Shad 👋
 
-[![Profile Logo]((https://github.com/asm-shad/asm-shad/blob/main/logoo.png))]((https://shad-s-portfolio.web.app/))
+((https://github.com/asm-shad/asm-shad/blob/main/logoo.png))]((https://shad-s-portfolio.web.app/))
 
  [LinkedIn](https://www.linkedin.com/in/asm-shad-139949146/) | [Email](mailto:asmshad@gmail.com)
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ASM Shad</h1>
 <p align="center">
-  <img src="https://github.com/asm-shad/asm-shad/blob/main/Black%20Flatlay%20Photo%20Motivational%20Finance%20Quote%20Facebook%20Cover.png" alt="ASM Shad Logo" width="100" height="100"/>
+  <img src="https://github.com/asm-shad/asm-shad/blob/main/Black%20Flatlay%20Photo%20Motivational%20Finance%20Quote%20Facebook%20Cover.png" alt="ASM Shad Logo" width="100%" height="100%"/>
 </p>
 <h3 align="center">I'm a Full-Stack Developer specialized in MERN stack 🌐 I love to work with <b>React.js</b>, <b>JavaScript</b>, and <b>Tailwind CSS</b> to build beautiful and dynamic web applications. With experience in both <b>frontend</b> and <b>backend</b> (Node.js, Express), I'm passionate about creating seamless user experiences and efficient systems.</h3>
 

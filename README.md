@@ -1,46 +1,80 @@
 <h1 align="center">Hi 👋, I'm ASM Shad</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asm-shad/asm-shad/main/cover.png" alt="ASM Shad Logo" width="100%" height="100%"/>
+  <img src="https://raw.githubusercontent.com/asm-shad/asm-shad/main/cover.png" alt="ASM Shad Logo" width="100%" height="auto"/>
 </p>
-<h3 align="center">I'm a Full-Stack Developer specialized in MERN stack 🌐 I love to work with <b>React.js</b>, <b>JavaScript</b>, and <b>Tailwind CSS</b> to build beautiful and dynamic web applications. With experience in both <b>frontend</b> and <b>backend</b> (Node.js, Express), I'm passionate about creating seamless user experiences and efficient systems.</h3>
+
+<h3 align="center">
+  I’m a Full-Stack Developer specializing in building modern web applications with <b>React.js</b>, <b>Next.js</b>, and <b>TypeScript</b>. I love creating seamless user experiences, optimizing performance, and turning designs into pixel-perfect reality.
+</h3>
 
 ---
 
-- 👨‍💻 All of my projects are available at [https://shad-s-portfolio.web.app/](https://shad-s-portfolio.web.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/asm-shad-139949146/](https://www.linkedin.com/in/asm-shad-139949146/)
-
-- 💬 Ask me about **React, JavaScript, PHP**
-
-- 📫 How to reach me **asmshad@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-5uSwi1o1jg75pdvhtZqgokFlMCgKxJ1/view?usp=drive_link](https://drive.google.com/file/d/1-5uSwi1o1jg75pdvhtZqgokFlMCgKxJ1/view?usp=drive_link)
-
-- ⚡ Fun fact **I debug code by talking to it and turn designs into pixel-perfect reality!**
+### 🌟 About Me
+- 💻 I build scalable web apps using **React**, **Next.js**, and **TypeScript** for the frontend, and **Node.js** + **Express** for the backend.
+- 🚀 Passionate about performance optimization, SEO, and crafting intuitive user interfaces.
+- ✍️ I share my knowledge through articles on [LinkedIn](https://www.linkedin.com/in/asm-shad-139949146/) and showcase my work on my [Portfolio Website](https://shad-s-portfolio.web.app/).
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/asm-shad-139949146/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:asmshad@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/></a>
-</p>
+### 🔗 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/asm-shad-139949146/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="mailto:asmshad@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/asm-shad" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="50"/>
+  </a>
+</div>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
+### 🛠 My Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,mysql,tailwind,git,linux,azure" alt="Tech Stack" />
+</div>
+
+---
+
+### 📚 Recent Focus
+I’m currently diving deeper into:
+- **Next.js**: Building server-side rendered (SSR) and statically generated (SSG) applications for improved performance and SEO.
+- **TypeScript**: Leveraging static typing to write robust and maintainable code.
+- **Performance Optimization**: Focusing on Core Web Vitals, lazy loading, and efficient state management.
+
+---
+
+### 📬 How to Reach Me
+- Email: **[asmshad@gmail.com](mailto:asmshad@gmail.com)**
+- LinkedIn: [linkedin.com/in/asm-shad-139949146](https://www.linkedin.com/in/asm-shad-139949146/)
+- Portfolio: [shad-s-portfolio.web.app](https://shad-s-portfolio.web.app/)
+- Resume: [Download PDF](https://drive.google.com/file/d/1-5uSwi1o1jg75pdvhtZqgokFlMCgKxJ1/view?usp=drive_link)
+
+---
+
+### ⚡ Fun Fact
+I debug code by talking to it and turn designs into pixel-perfect reality! 😎
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/asm-shad">
+    <img src="https://github-readme-stats.vercel.app/api?username=asm-shad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/asm-shad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asm-shad&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+### 🎨 Design Philosophy
+- **Clean & Minimal**: I believe in simplicity and clarity in both design and code.
+- **Performance-First**: Optimizing for speed and efficiency is always a priority.
+- **User-Centric**: Every project I build is designed with the end-user in mind.
